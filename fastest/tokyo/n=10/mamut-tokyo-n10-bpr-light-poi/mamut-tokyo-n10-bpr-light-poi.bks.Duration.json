@@ -1,0 +1,18 @@
+{
+    "instance_name": "mamut-tokyo-n10-bpr-light-poi",
+    "routes": [
+        [10, 4, 1, 6, 2, 7, 8, 9, 3, 5]
+    ],
+    "cost": 12273.13890193752,
+    "metadata": {
+        "source": "kayros 0.4.0.dev0 TD-ILS (seed=42, time_limit=30.0s)",
+        "validated_by": "mamut-routing-lib td Duration checker",
+        "date": "2026-07-08T16:26:49",
+        "route_durations": [12273.13890193752],
+        "route_departure_times": [74322.67313589178],
+        "authors": "Florian Rascoussier (0nyr)",
+        "validated_cost": 12273.13890193752,
+        "validated_num_routes": 1
+    },
+    "objective_function": "Duration"
+}

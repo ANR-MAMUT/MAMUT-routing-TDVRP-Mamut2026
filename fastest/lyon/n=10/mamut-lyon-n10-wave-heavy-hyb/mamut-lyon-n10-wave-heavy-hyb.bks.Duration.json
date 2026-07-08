@@ -1,0 +1,18 @@
+{
+    "instance_name": "mamut-lyon-n10-wave-heavy-hyb",
+    "routes": [
+        [1, 4, 9, 8, 10, 2, 7, 6, 5, 3]
+    ],
+    "cost": 13004.762267133534,
+    "metadata": {
+        "source": "kayros 0.4.0.dev0 TD-ILS (seed=42, time_limit=30.0s)",
+        "validated_by": "mamut-routing-lib td Duration checker",
+        "date": "2026-07-08T16:24:24",
+        "route_durations": [13004.762267133534],
+        "route_departure_times": [0.0],
+        "authors": "Florian Rascoussier (0nyr)",
+        "validated_cost": 13004.762267133534,
+        "validated_num_routes": 1
+    },
+    "objective_function": "Duration"
+}
